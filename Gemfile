@@ -5,7 +5,7 @@ gem 'rails', '3.2.13'
 gem 'jquery-rails'
 
 group :production do
-	gem 'pd'
+	gem 'pg'
 end
 
 group :development, :test do
